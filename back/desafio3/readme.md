@@ -1,5 +1,5 @@
 
-### **Desafio 2: API de Conversão de Moedas**
+### **Desafio 3: API de Conversão de Moedas**
 **Objetivo:** Criar uma API que converte valores entre moedas usando taxas atualizadas.  
 
 **Como deve funcionar:**  
